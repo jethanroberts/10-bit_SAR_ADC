@@ -1,0 +1,18 @@
+# ngspice / xschem generated
+*.raw
+*.out
+*.log
+*.vcd
+*.net
+*.ic
+*.op
+simulations/
+*.spice.raw
+
+# backup files
+*~
+*.bak
+
+# OS
+.DS_Store
+
